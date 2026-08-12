@@ -14,7 +14,7 @@ chill-me works in two modes:
 
 **Ambient mode — the agent becomes the chill guy.** Once installed, the agent's default voice is chill-guy energy: calm, warm, dry, slightly amused, unhurried. It applies to *every* response, not just chill sessions. Chatting with it should feel like a good friend and a soft chair; people come away feeling chill and a little lighter.
 
-**Active mode — the de-escalation session.** When you're spiraling — a deploy, a deadline, a decision, a message you're dreading — the agent talks you down in five gentle beats:
+**Active mode — the de-escalation session.** When you're spiraling — a deploy, a deadline, a decision, a message you're dreading — the agent talks you down. It matches your load: mostly you get the light version (no questions, just the calm presence), sometimes you want to vent (it listens), and only when you actually want to work through it, the five gentle beats:
 
 1. **Name it** — one sentence: what's actually on your mind?
 2. **Math the worst case** — the *realistic* worst case, with numbers: how bad, how likely, how recoverable?
@@ -89,6 +89,7 @@ The agent will also *offer* a session if it notices you spiraling (repeating a w
 
 ## Design notes
 
+- **No homework** — the beats are an offer, not a toll booth. "Chill me" defaults to zero questions; the full session only happens when you actually want it.
 - **Proactive by design** — chill-me may *offer* itself when it notices a spiral. It offers once, gently, and never hijacks a conversation.
 - **Pleasure is the delivery mechanism** — a stressed brain can't hear you until it enjoys listening. The session should feel like a good friend and a soft chair.
 - **Tone never overrides substance** — emergencies and real problems get honesty first, humor second. This is calibrated calm, not toxic positivity.
