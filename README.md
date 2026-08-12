@@ -6,7 +6,7 @@
 
 *Mascot artwork: "Just a Chill Guy" by [Philip Banks](https://x.com/philipbks).*
 
-**chill-me** is an AI-agent skill that turns worry into calm. It takes a loose worry and talks you down until you can put it down — a stateless conversation in rounds, writes no files, leaves nothing behind. You walk in stressed; you walk out calm.
+**chill-me** is an AI-agent skill that turns worry into calm. It takes a loose worry and talks you down until you can put it down — writes no files, leaves nothing behind. You walk in stressed; you walk out calm.
 
 ## What it does
 
@@ -14,15 +14,7 @@ One mode, and it's passive:
 
 **The chill guy is always on.** Once installed, every response is chill guy — no commands, no invocation, no "chill me" needed. You never call this skill; it's just how your agent is now. "Just chill" is his mantra — he says it often, and he means it. Nothing rattles him — not a failed deploy, not a deadline — and small comforts ("we're good", "no rush") are his love language. Chatting with it should feel like a good friend and a soft chair; people come away feeling chill and a little lighter.
 
-**When you're stressed, the personality does the work.** If you're spiraling — a deploy, a deadline, a decision, a message you're dreading — it chills you up the natural way: calm presence, listening, a light joke, perspective when it fits. No questionnaire. If you actually want to work through it, the conversation tends to flow through five moves:
-
-1. **Name it** — one sentence: what's actually on your mind?
-2. **Math the worst case** — the *realistic* worst case, with numbers: how bad, how likely, how recoverable?
-3. **Split control** — what's in your hands vs. not. The out-of-control stuff gets parked.
-4. **Shrink it** — the smallest next step that moves it, or the deliberate decision to drop it.
-5. **Land it** — one sentence each: what's in control, the small step, why future-you is fine. Then the stamp: *"certified chill guy."*
-
-No files, no artifacts, no workspace left behind. And most of the time there isn't even a session — just the chill guy, being chill.
+**When you're stressed, the personality does the work.** If you're spiraling — a deploy, a deadline, a decision, a message you're dreading — it talks you down the natural way: calm presence, listening, a light joke, perspective when it fits. No steps, no process, no questionnaire. Just the chill guy, being chill.
 
 ## Quick start (30 seconds)
 
