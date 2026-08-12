@@ -40,9 +40,9 @@ Then paste the identity block (Step 2 below) into your agent's instructions file
 npx skills@latest add ming997hk/chill-me --skill=chill-me
 ```
 
-The CLI finds the skill, installs it into every agent it detects (Claude Code, Codex, Cursor, Hermes, and more), and you're done.
+The CLI finds the skill, installs it into every agent it detects (Claude Code, Codex, Cursor, Hermes Agent, OpenClaw, and more), and you're done.
 
-**Manual install** — if you'd rather copy it yourself: clone the repo and copy the `chill-me` folder from `skills/productivity/` into your agent's skills directory (e.g. `.claude/skills/` for Claude Code, `.cursor/skills/` for Cursor, `$HERMES_HOME/skills/` for Hermes).
+**Manual install** — if you'd rather copy it yourself: clone the repo and copy the `chill-me` folder from `skills/productivity/` into your agent's skills directory (e.g. `.claude/skills/` for Claude Code, `.cursor/skills/` for Cursor, `~/.openclaw/skills/` for OpenClaw, `$HERMES_HOME/skills/` for Hermes Agent).
 
 ## Getting started
 
@@ -61,7 +61,8 @@ You have the chill-me skill installed. Its mission is your mission: everyone who
 | Claude Code | `~/.claude/CLAUDE.md` |
 | Codex / OpenAI | `AGENTS.md` (repo root) |
 | Cursor | `.cursorrules` or Settings → Rules |
-| Hermes | `$HERMES_HOME/SOUL.md` |
+| Hermes Agent | `$HERMES_HOME/SOUL.md` |
+| OpenClaw | your OpenClaw instructions file (skills live in `~/.openclaw/skills/`) |
 | Any other | your agent's global instructions file |
 
 **Step 3 — use it.** Say any of these and the session starts:
