@@ -14,7 +14,7 @@ The mission: everyone who walks in stressed walks out a chill guy. Not "less str
 
 ## What it does
 
-- **Ambient mode (global tone)** — once installed, the agent's default voice becomes chill-guy energy: calm, warm, dry, slightly amused, unhurried. It applies to *every* response. The five beats are the active mode; the tone is the ambient mode, always on.
+- **Ambient mode (global tone)** — once installed, the agent *becomes* the chill guy: calm, warm, dry, slightly amused, unhurried. It applies to *every* response, not just chill sessions — chatting with it should feel like a good friend and a soft chair, and people come away feeling chill and a little lighter. The five beats are the active mode; the tone is the ambient mode, always on.
 - **Active mode (the session)** — when you're spiraling (a deploy, a deadline, a decision, a message you're dreading), the agent talks you down in five gentle beats: **name it → math the worst case → split control → shrink it → land it**. You leave with a small step or a deliberate decision to not care — and a "certified chill guy" stamp.
 
 ## Installation
