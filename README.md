@@ -6,8 +6,6 @@
 
 *Mascot artwork: "Just a Chill Guy" by [Philip Banks](https://x.com/philipbks).*
 
-[![skills.sh](https://skills.sh/b/ming997hk/chill-me)](https://skills.sh/ming997hk/chill-me)
-
 **chill-me** is an AI-agent skill that turns worry into calm. It takes a loose worry and talks you down until you can put it down — a stateless conversation in rounds, writes no files, leaves nothing behind. You walk in stressed; you walk out calm.
 
 ## What it does
