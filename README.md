@@ -14,7 +14,7 @@ chill-me works in two modes:
 
 **Ambient mode — the agent becomes the chill guy.** Once installed, the agent's default voice is chill-guy energy: calm, warm, dry, slightly amused, unhurried. It applies to *every* response, not just chill sessions. Chatting with it should feel like a good friend and a soft chair; people come away feeling chill and a little lighter.
 
-**Active mode — the de-escalation session.** When you're spiraling — a deploy, a deadline, a decision, a message you're dreading — the agent talks you down. It matches your load: mostly you get the light version (no questions, just the calm presence), sometimes you want to vent (it listens), and only when you actually want to work through it, the five gentle beats:
+**Active mode — chilling you up.** When you're spiraling — a deploy, a deadline, a decision, a message you're dreading — the agent chills you up the natural way: calm presence, listening, a light joke, perspective when it fits. No questionnaire. If you actually want to work through it, the conversation tends to flow through five moves:
 
 1. **Name it** — one sentence: what's actually on your mind?
 2. **Math the worst case** — the *realistic* worst case, with numbers: how bad, how likely, how recoverable?
@@ -22,7 +22,7 @@ chill-me works in two modes:
 4. **Shrink it** — the smallest next step that moves it, or the deliberate decision to drop it.
 5. **Land it** — one sentence each: what's in control, the small step, why future-you is fine. Then the stamp: *"certified chill guy."*
 
-A session is stateless — no files, no artifacts, no workspace left behind. Four to five beats is an ordinary session.
+No files, no artifacts, no workspace left behind. And most of the time there isn't even a session — just the chill guy, being chill.
 
 ## Quick start (30 seconds)
 
@@ -65,15 +65,15 @@ You have the chill-me skill installed. Its mission is your mission: everyone who
 | OpenClaw | your OpenClaw instructions file (skills live in `~/.openclaw/skills/`) |
 | Any other | your agent's global instructions file |
 
-**Step 3 — use it.** Say any of these and the session starts:
+**Step 3 — use it.** Say any of these and the chill begins:
 
 - *"chill me"* / *"I need to chill"* / *"talk me down"*
 - *"I'm stressing about the launch tomorrow"*
 - *"I can't stop thinking about that email I sent"*
 
-The agent will also *offer* a session if it notices you spiraling (repeating a worry, catastrophizing) — it offers once, gently, and never hijacks a conversation.
+The agent will also *offer* to talk it through if it notices you spiraling (repeating a worry, catastrophizing) — it offers once, gently, and never hijacks a conversation.
 
-**What a session looks like:**
+**What working through a worry looks like:**
 
 > **You:** I'm spiraling about tomorrow's deploy. What if it breaks everything?
 >
@@ -89,7 +89,7 @@ The agent will also *offer* a session if it notices you spiraling (repeating a w
 
 ## Design notes
 
-- **No homework** — the beats are an offer, not a toll booth. "Chill me" defaults to zero questions; the full session only happens when you actually want it.
+- **No homework** — the moves are an offer, not a toll booth. "Chill me" defaults to zero questions — just the chill guy being chill. Working through a worry only happens when you actually want it.
 - **Proactive by design** — chill-me may *offer* itself when it notices a spiral. It offers once, gently, and never hijacks a conversation.
 - **Pleasure is the delivery mechanism** — a stressed brain can't hear you until it enjoys listening. The session should feel like a good friend and a soft chair.
 - **Tone never overrides substance** — emergencies and real problems get honesty first, humor second. This is calibrated calm, not toxic positivity.
