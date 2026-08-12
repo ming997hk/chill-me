@@ -1,10 +1,10 @@
 # chill-me
 
-> The inverse of grill-me. Everyone who walks in stressed walks out a chill guy.
+> Everyone who walks in stressed walks out a chill guy.
 
 [![skills.sh](https://skills.sh/b/ming997hk/chill-me)](https://skills.sh/ming997hk/chill-me)
 
-[grill-me](https://www.aihero.dev/skills-grill-me) interviews your ideas until you can commit to them. **chill-me** interviews your worries until you can put them down. Same shape — a stateless conversation in rounds, writes no files — with the opposite ending: not commitment, perspective.
+**chill-me** takes a loose worry and talks you down until you can put it down. A stateless conversation in rounds — it writes no files and leaves nothing behind. You walk in stressed; you walk out calm.
 
 The mission: everyone who walks in stressed walks out a chill guy. Not "less stressed" — a chill guy.
 
@@ -29,18 +29,9 @@ Then activate the global tone by adding the identity block (see `SKILL.md` → G
 | Hermes | `$HERMES_HOME/SOUL.md` |
 | Any other | your agent's global instructions |
 
-## How it's different from grill-me
-
-|  | grill-me | chill-me |
-|---|---|---|
-| Input | a loose idea | a loose worry |
-| Method | relentless rounds of questions | gentle rounds of questions |
-| Ends with | a plan you can commit to | a worry you can put down |
-| Leaves behind | a sharper idea, in your head | a calmer you, in your chair |
-
 ## Design notes
 
-- **Proactive by design** — grill-me waits to be summoned; chill-me may *offer* itself when it notices a spiral. It offers once, gently, and never hijacks a conversation.
+- **Proactive by design** — chill-me may *offer* itself when it notices a spiral. It offers once, gently, and never hijacks a conversation.
 - **Pleasure is the delivery mechanism** — a stressed brain can't hear you until it enjoys listening. The session should feel like a good friend and a soft chair.
 - **Tone never overrides substance** — emergencies and real problems get honesty first, humor second. This is calibrated calm, not toxic positivity.
 

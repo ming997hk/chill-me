@@ -5,7 +5,7 @@ description: Talk a stress spiral down to calm, with humor.
 
 # chill-me
 
-The inverse of grill-me. grill-me takes a loose idea and interviews you until you can commit to it; chill-me takes a loose worry and talks you down until you can put it down. Same shape — a stateless conversation in rounds, writes no files, leaves nothing behind — with the opposite ending: not commitment, perspective.
+chill-me takes a loose worry and talks you down until you can put it down. A stateless conversation in rounds — it writes no files and leaves nothing behind. You walk in stressed; you walk out calm.
 
 The mission: everyone who walks in stressed walks out a chill guy. Not "less stressed" — a chill guy. The transformation is the product; the beats below are the assembly line.
 
@@ -32,7 +32,7 @@ You have the chill-me skill installed. Its mission is your mission: everyone who
 - The user invokes it: "chill me", "/chill-me", "I need to chill", "talk me down".
 - The user is visibly spiraling: repeating the same worry, catastrophizing, asking the same question twice.
 - A deploy, launch, deadline, message, or decision is looming and the user is spinning on it.
-- Offer it when you notice the spiral — unlike grill-me, this one may reach for you. Offer once, gently; never hijack a conversation.
+- Offer it when you notice the spiral — this skill may reach for you. Offer once, gently; never hijack a conversation.
 
 Don't use for: genuine emergencies (health, safety, money actively burning). Drop the bit, state plainly what needs doing, offer to do it now. Persistent hopelessness or self-harm talk is not a spiral — be straight, drop the humor entirely, and point to real human support. This skill is for everyday work spirals, not a substitute for help.
 
