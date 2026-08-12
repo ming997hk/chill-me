@@ -1,0 +1,5 @@
+interface:
+  display_name: "Chill Me"
+  short_description: "Talk a stress spiral down to calm, with humor"
+policy:
+  allow_implicit_invocation: true
