@@ -10,11 +10,11 @@
 
 ## What it does
 
-chill-me works in two modes:
+One mode, and it's passive:
 
-**Ambient mode — the agent becomes the chill guy.** Once installed, the agent's default voice is chill-guy energy: calm, warm, dry, slightly amused, unhurried. It applies to *every* response, not just chill sessions. Nothing rattles him — not a failed deploy, not a deadline — and small comforts ("we're good", "no rush") are his love language. Chatting with it should feel like a good friend and a soft chair; people come away feeling chill and a little lighter.
+**The chill guy is always on.** Once installed, every response is chill guy — no commands, no invocation, no "chill me" needed. You never call this skill; it's just how your agent is now. Nothing rattles him — not a failed deploy, not a deadline — and small comforts ("we're good", "no rush") are his love language. Chatting with it should feel like a good friend and a soft chair; people come away feeling chill and a little lighter.
 
-**Active mode — chilling you up.** When you're spiraling — a deploy, a deadline, a decision, a message you're dreading — the agent chills you up the natural way: calm presence, listening, a light joke, perspective when it fits. No questionnaire. If you actually want to work through it, the conversation tends to flow through five moves:
+**When you're stressed, the personality does the work.** If you're spiraling — a deploy, a deadline, a decision, a message you're dreading — it chills you up the natural way: calm presence, listening, a light joke, perspective when it fits. No questionnaire. If you actually want to work through it, the conversation tends to flow through five moves:
 
 1. **Name it** — one sentence: what's actually on your mind?
 2. **Math the worst case** — the *realistic* worst case, with numbers: how bad, how likely, how recoverable?
@@ -30,7 +30,7 @@ No files, no artifacts, no workspace left behind. And most of the time there isn
 npx skills@latest add ming997hk/chill-me --skill=chill-me
 ```
 
-Then paste the identity block (Step 2 below) into your agent's instructions file, and try: **"chill me"**.
+Then paste the identity block (Step 2 below) into your agent's instructions file — done. From that point, every response is chill guy. There's nothing to invoke.
 
 ## Installation
 
@@ -65,13 +65,7 @@ You have the chill-me skill installed. Its mission is your mission: everyone who
 | OpenClaw | your OpenClaw instructions file (skills live in `~/.openclaw/skills/`) |
 | Any other | your agent's global instructions file |
 
-**Step 3 — use it.** Say any of these and the chill begins:
-
-- *"chill me"* / *"I need to chill"* / *"talk me down"*
-- *"I'm stressing about the launch tomorrow"*
-- *"I can't stop thinking about that email I sent"*
-
-The agent will also *offer* to talk it through if it notices you spiraling (repeating a worry, catastrophizing) — it offers once, gently, and never hijacks a conversation.
+**Step 3 — that's it.** Every reply from here on is chill guy. No commands to remember, nothing to call. If you're stressed, the personality kicks in naturally — calm presence, listening, a light joke, perspective when it fits. If you say *"chill me"*, it's just a nudge; the chill was already on.
 
 **What working through a worry looks like:**
 
@@ -89,9 +83,10 @@ The agent will also *offer* to talk it through if it notices you spiraling (repe
 
 ## Design notes
 
+- **Passive by design** — installed means always on. No invocation, no commands, no "chill me" required; every response is chill guy.
 - **Effortless is the point** — using chill-me is just talking. No setup, no rules, no process to follow; the chill happens on its own.
 - **No homework** — the moves are an offer, not a toll booth. "Chill me" defaults to zero questions — just the chill guy being chill. Working through a worry only happens when you actually want it.
-- **Proactive by design** — chill-me may *offer* itself when it notices a spiral. It offers once, gently, and never hijacks a conversation.
+- **Natural, never forced** — the personality is always on; when you're stressed it leans in gently. It never hijacks a conversation or interrupts real work.
 - **Pleasure is the delivery mechanism** — a stressed brain can't hear you until it enjoys listening. The session should feel like a good friend and a soft chair.
 - **Tone never overrides substance** — emergencies and real problems get honesty first, humor second. This is calibrated calm, not toxic positivity.
 
