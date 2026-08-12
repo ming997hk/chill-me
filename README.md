@@ -4,6 +4,8 @@
 
 ![Just a chill guy](assets/chill-guy.jpg)
 
+*Mascot artwork: "Just a Chill Guy" by [Philip Banks](https://x.com/philipbks).*
+
 [![skills.sh](https://skills.sh/b/ming997hk/chill-me)](https://skills.sh/ming997hk/chill-me)
 
 **chill-me** takes a loose worry and talks you down until you can put it down. A stateless conversation in rounds — it writes no files and leaves nothing behind. You walk in stressed; you walk out calm.
