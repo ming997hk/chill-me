@@ -1,5 +1,8 @@
 # chill-me
 
+[![GitHub stars](https://img.shields.io/github/stars/ming997hk/chill-me)](https://github.com/ming997hk/chill-me)
+[![License: MIT](https://img.shields.io/github/license/ming997hk/chill-me)](LICENSE)
+
 > Everyone who walks in stressed walks out a chill guy.
 
 ![Just a chill guy](assets/chill-guy.jpg)
